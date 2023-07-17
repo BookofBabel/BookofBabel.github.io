@@ -245,14 +245,14 @@ button {
     width: 100%;
     float: left;
     text-align: center;
-    padding: 10px 0px 50px 0px;
+    padding: 5px 0px 50px 0px;
 }
 
 .logo_mobile {
     width: 80%;
     float: left;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 .mobile_menu {
